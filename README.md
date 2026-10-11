@@ -1,1 +1,1 @@
-caution this charger is not finishied. using it as a board may cause problem.
+caution. this charger is not finishied. using it as a board may cause problem.
